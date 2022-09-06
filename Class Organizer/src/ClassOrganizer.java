@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 class ClassOrganizer {
 	
-	// VARIABLES/ATTRIBUTES
+	// VARIABLES/ATTRIBUTES.
 
 	private static int classSize, idx;
 	private static String semesterYear;
